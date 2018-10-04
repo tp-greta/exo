@@ -1,0 +1,3 @@
+ftp://admin:toto@www.webdesigner.org:1234/ftp/pub/intro-web.txt
+
+http://video.google.co.uk:80/play?id=7246927612&l=en#00h02m30s
